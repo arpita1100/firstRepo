@@ -70,3 +70,6 @@ function add(){
 * [ ] task2
 * [x] task3 
 * [ ]  task5
+
+
+use `for` loop
