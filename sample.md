@@ -25,7 +25,8 @@ ___
 <!-- blockquote -->
 > this is blockquote
 <!-- links -->
-[Arpita](http://www.google.com)
+[Arpita](http://www.google.com "Google")
+<!-- "title" appears when we hover on link-->
 <!-- unordered list -->
 * item1 
 * item2
@@ -70,6 +71,9 @@ function add(){
 * [ ] task2
 * [x] task3 
 * [ ]  task5
+<<<<<<< HEAD
 
 
 use `for` loop
+=======
+>>>>>>> 3f8712c035e23b930f15370ebe84830d2ba213ba
